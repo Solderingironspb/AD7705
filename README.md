@@ -24,3 +24,6 @@
 ![DOC034252550](https://github.com/Solderingironspb/AD7705/assets/68805120/6c87bc4b-94ce-45df-8ffe-1f4800f2bcdd)
 # TM7705
 ![20221231_TM-Shenzhen-Titan-Micro-Elec-TM7705_C77545_front](https://github.com/Solderingironspb/AD7705/assets/68805120/099960b4-8022-491c-b9dd-9c63b90bf36b)
+
+# Распиновка
+![Снимок](https://github.com/Solderingironspb/AD7705/assets/68805120/4df690a5-dae9-4c5d-a703-f5616a0476f3)
